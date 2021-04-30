@@ -1,5 +1,8 @@
 # Birthday Wish Web Template
 
+
+
+
 ## Introduction
 This is a basic web template that can be used to wish a friend or a loved one if you want to do it in a personalized way that is a bit different and a bit special to make your wish stand out. It is designed using HTML, CSS and Javascript.
 
@@ -18,3 +21,9 @@ https://mohammadshahdad.github.io/Birthday-Wish-Template/
 
 ----
 Made with ❤️ by [Mohammad Shahdad](https://github.com/MohammadShahdad)
+
+
+# Thanks to Owners:
+https://github.com/alexanderritik/birthdayWishing
+and 
+https://github.com/MohammadShahdad/Birthday-Wish-Template.git
