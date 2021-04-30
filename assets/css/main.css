@@ -1,0 +1,117 @@
+
+.margin-center {
+  margin: 0px auto;
+}
+
+@media (min-width: 1200px) {
+.container {
+  max-width: 100%!important;
+  }
+}
+
+@media (min-width: 992px) {
+.container {
+  max-width: 100%!important;
+  }
+}
+
+@media (min-width: 768px) {
+.container {
+  max-width: 100%!important;
+  }
+}
+
+@media (min-width: 576px) {
+.container {
+  max-width: 100%!important;
+  }
+}
+
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  margin: 0px auto;
+  display: block;
+  position:relative;
+  z-index:1;
+}
+
+.background-img {
+  z-index: -10;
+  overflow: hidden;
+}
+
+.paw {
+  width: 50px;
+  margin: 0px auto;
+  display: block;
+}
+
+#panda-img {
+  z-index:0;
+  margin:-10px;
+  text-align: center;
+  height: 100%;
+}
+
+#panda-img img {
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.pad-0 {
+  padding: 0px;
+}
+
+.pad-150-up {
+  padding: 150px 50px 0px 50px;
+}
+
+.pad-150-down {
+  padding: 0px 50px 150px 50px;
+}
+
+.center-items-cus {
+  display: none;
+  align-items: center;
+  position: absolute;
+  visibility: hidden;
+}
+
+.paw, .section-heading {
+  margin: 0 auto;
+  opacity: 0;
+}
+
+.modal-header, h4, .close {
+    background-color: #000;
+    color: #fff !important;
+    text-align: center;
+    font-size: 30px;
+}
+.modal-header, .modal-body {
+    padding: 10px 10px;
+}
+
+canvas {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  opacity: 0;
+  z-index: -20;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
